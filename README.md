@@ -11,7 +11,6 @@ Este projeto tem como objetivo criar um podcast utilizando ferramentas de Inteli
 ## 💻 Tecnologias Utilizadas no Projeto
 
 - **ChatGPT**: Para geração do roteiro e revisão de conteúdos.
-- **ElevenLabs**: Para síntese de voz e criação do áudio do podcast.
 - **DALLE**: Para criação de capas e elementos visuais.
 - **NOTEBOOKLM**: Para edição de áudio, adição de efeitos sonoros e finalização.
 
