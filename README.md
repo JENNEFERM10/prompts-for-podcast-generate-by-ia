@@ -41,7 +41,7 @@ O projeto resultou em um podcast totalmente criado por IA, que combina informaç
 ## 📂 Estrutura do Repositório
 
 - `/roteiro`: Contém o roteiro gerado e revisado para o podcast.
-- `/audios`: Áudios gerados pela ElevenLabs e edições finais.
+- `/audios`: Áudios gerados pela NOTEBOOKLM e edições finais.
 - `/capas`: Imagens e capas criadas via DALLE.
 - `/projeto-final`: Arquivos editados no NOTEBOOKLM e versão final do podcast.
 
